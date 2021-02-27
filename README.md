@@ -1,5 +1,5 @@
 # Python-Ensemble-Learning-
 
-<img src = "ensemble_learning.png" width = 10000px height=450 ></img></br>
+<img src = "ensemble_learning.png"  height=400 ></img></br>
 
 
